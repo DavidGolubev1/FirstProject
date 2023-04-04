@@ -1,0 +1,49 @@
+
+body {
+    background-color: wheat;
+}
+
+img#IMG{
+    border-radius: 50%;
+}
+
+img#aid-icon{
+    border-radius: 100%;
+    width: 50px;
+    height: 50px;
+    margin-top: -100px;
+    margin-left: 600px;
+}
+
+
+#highest-title {
+    background-color: blue;
+    width: 280px;
+    padding: 0px solid blue;
+    border-top: 6PX solid rgb(0, 0, 0);
+    border-left: 10px solid black;
+    margin: 00px black;
+    color: white;
+   }
+
+   #prices  {
+    width: 280px;
+    padding: 0px solid blue;
+    border-top: 0PX solid rgb(0, 0, 0);
+    border-left: 0px solid black;
+    margin: 00px black;
+    color: blue;
+   }
+
+   #order  {
+    background-color: orange;
+    width: 280px;
+    padding: 0px solid blue;
+    border-top: 6PX solid rgb(0, 0, 0);
+    border-left: 10px solid black;
+    margin: 00px black;
+    color: white;
+   }
+
+
+
